@@ -11,7 +11,6 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "discord.js": "^12.2.0",
-    "espeak": "0.0.3",
     "node-cmd": "^3.0.0"
   }
 }
